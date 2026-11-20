@@ -115,8 +115,8 @@ This repository demonstrates my understanding and practical application of scien
 
 ## 9. Author
 
-**Student Name:** Alier Bior  
-**Registration Number:** BSCCS/2025/41621  
+**Student Name:** Collins brian
+**Registration Number:** BSCCS/2025/40048
 **Course:** Bachelor of Science in Computer Science  
 **Institution:** Mount Kenya University  
 **Unit:** BIT 2118 – Scientific Computing
